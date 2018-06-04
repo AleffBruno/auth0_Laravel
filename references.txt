@@ -1,0 +1,7 @@
+https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/
+
+https://auth0.com/docs/quickstart/webapp/laravel
+
+https://manage.auth0.com/#/applications/cr-ORxZFGu9agexG34vLcu1gu3l3evVy/settings
+
+https://jwt.io/introduction/
