@@ -40,8 +40,8 @@ return array(
      |   'Auth0\Login\Auth0Controller@callback'
      |
      */
-    //'redirect_uri'  => env( 'APP_URL' ) . '/auth0/callback',
-    'redirect_uri'  => 'https://www.google.com.br/',
+    'redirect_uri'  => env( 'APP_URL' ) . '/auth0/callback',
+    //'redirect_uri'  => 'https://www.google.com.br/',
 
     /*
     |--------------------------------------------------------------------------
